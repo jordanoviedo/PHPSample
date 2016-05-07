@@ -10,7 +10,7 @@
             echo $variableDos;
             
             $variableTres= "Hola ";
-            $variableCuatro = $variableTres . "Hola ";
+            $variableCuatro = $variableTres . "Versión 2 ";
             echo $variableCuatro;
         ?>
     </body>
